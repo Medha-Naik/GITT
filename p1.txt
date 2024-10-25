@@ -1,5 +1,6 @@
 Medha Naik
 CSE
+<<<<<<< HEAD
 
 3-11-2024
 GIT
@@ -11,3 +12,5 @@ Hello
 Acharya Institute of Technology
 
 
+=======
+>>>>>>> 11231d8 (file added)
