@@ -1,6 +1,7 @@
 Medha Naik
 CSE
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 3-11-2024
 GIT
@@ -14,3 +15,8 @@ Acharya Institute of Technology
 
 =======
 >>>>>>> 11231d8 (file added)
+=======
+Acharya Institute of Technology
+
+medhaaaaaa!!!!!!
+>>>>>>> 096d69f (file added)
