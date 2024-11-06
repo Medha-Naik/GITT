@@ -1,2 +1,10 @@
 Medha Naik
 CSE
+<<<<<<< Updated upstream
+=======
+Acharya Institute of Technology
+
+
+I just wanna be part of your symphony!!! 
+
+>>>>>>> Stashed changes
