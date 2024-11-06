@@ -1,5 +1,6 @@
 Medha Naik
 CSE
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 Acharya Institute of Technology
@@ -8,3 +9,9 @@ Acharya Institute of Technology
 I just wanna be part of your symphony!!! 
 
 >>>>>>> Stashed changes
+=======
+Acharya Institute of Technology
+
+medhaaaaaa!!!!!!
+>>>>>>> feature_branch
+would you hold me tight and not let go
