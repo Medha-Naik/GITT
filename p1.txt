@@ -1,13 +1,13 @@
 Medha Naik
 CSE
-<<<<<<< HEAD
+
 3-11-2024
 GIT
 vice versa
 Hello
-=======
+
 
 13-11-2024
 Acharya Institute of Technology
 
->>>>>>> c3b3ff6 (commit 4)
+
