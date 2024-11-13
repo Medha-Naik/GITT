@@ -1,7 +1,6 @@
 Medha Naik
 CSE
-<<<<<<< HEAD
-=======
+3-11-2024
+GIT
+vice versa
 
-13-11-2024
->>>>>>> feature_branch
