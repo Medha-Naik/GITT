@@ -2,4 +2,9 @@
 Well, you said we wculd still be friends
 =======
 We can addicted to a certain kind of sadness
+<<<<<<< HEAD
 >>>>>>> 88dec13 (first commit p3)
+=======
+Like , resignation to the end , always the end!
+So, when we found that we could  not make sense
+>>>>>>> aee0506 (third commit p3)
