@@ -1,7 +1,5 @@
-<<<<<<< HEAD
+HEAD
 Edited
-=======
 13-11-2024
 Cherry Pick
 
->>>>>>> 0cd2398 (first commit p2)
