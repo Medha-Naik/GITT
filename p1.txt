@@ -1,9 +1,6 @@
 Medha Naik
 CSE
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-3-11-2024
+28-11-2024
 GIT
 vice versa
 Hello
@@ -12,14 +9,11 @@ Hello
 13-11-2024
 Acharya Institute of Technology
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 11231d8 (file added)
-=======
+
+
 Acharya Institute of Technology
 
 medhaaaaaa!!!!!!
->>>>>>> 096d69f (file added)
-=======
->>>>>>> feature_branch
+
+20-11-24
