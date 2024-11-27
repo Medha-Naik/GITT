@@ -9,6 +9,11 @@ Hello
 13-11-2024
 Acharya Institute of Technology
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> feature_branch
 
 
 
@@ -17,5 +22,12 @@ Acharya Institute of Technology
 medhaaaaaa!!!!!!
 
 20-11-24
+<<<<<<< HEAD
 And i'm never gonna dance again
 dirty feet have got no rythm
+=======
+<<<<<<< HEAD
+>>>>>>> parent of 9bfc3ec (20/11 second commit)
+=======
+>>>>>>> parent of 9bfc3ec (20/11 second commit)
+>>>>>>> feature_branch

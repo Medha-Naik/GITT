@@ -5,8 +5,11 @@ We can addicted to a certain kind of sadness
 Like , resignation to the end , always the end!
 So, when we found that we could  not make sense
 Well, you said we could still be friends!
+<<<<<<< HEAD
 =======
 We can addicted to a certain kind of sadness
 Like , resignation to the end , always the end!
 So, when we found that we could  not make sense
+>>>>>>> feature_branch
+=======
 >>>>>>> feature_branch
