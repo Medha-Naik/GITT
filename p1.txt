@@ -14,4 +14,7 @@ Acharya Institute of Technology
 medhaaaaaa!!!!!!
 
 20-11-24
+<<<<<<< HEAD
+>>>>>>> parent of 9bfc3ec (20/11 second commit)
+=======
 >>>>>>> parent of 9bfc3ec (20/11 second commit)
